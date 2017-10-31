@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,167,105",
+                        "endColumns": "49,57,61",
+                        "endOffsets": "100,220,162"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,163",
+                        "endColumns": "49,57,61",
+                        "endOffsets": "100,158,220"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,167,105",
+                        "endColumns": "49,57,61",
+                        "endOffsets": "100,220,162"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,163",
+                        "endColumns": "49,57,61",
+                        "endOffsets": "100,158,220"
+                    }
+                }
+            ]
+        }
+    ]
+}

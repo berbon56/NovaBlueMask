@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wallpaper_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-nodpi\\wallpaper_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_28.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_28.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_13.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_13.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_messenger_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\dock_icon_messenger_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_iconmaskblue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\iconmaskblue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_phone_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_phone_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_21.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_21.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_internet_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\dock_icon_internet_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_6.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_6.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nova.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_nova.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\xml_drawable.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\xml\\drawable.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_21.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_21.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_14.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_14.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_28.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_28.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wallpaper_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-nodpi\\wallpaper_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_2.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_2.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_sms_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\dock_icon_sms_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_blue_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\wallpaper_blue_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_email_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_blue_cloud.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\wallpaper_blue_cloud.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_5.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_5.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_browser_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_browser_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_phone_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_29.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_29.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wallpaper_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-nodpi\\wallpaper_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_allapps.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_allapps.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sms_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_sms_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_22.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_22.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_1.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_1.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_phone_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_iconbackblue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\iconbackblue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_30.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_30.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sms_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_sms_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_26.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_26.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_email_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_30.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_30.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_15.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_15.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sms_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_sms_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_27.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_27.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_phone_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\dock_icon_phone_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_23.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_23.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\xml_theme_wallpapers.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\xml\\theme_wallpapers.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_15.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_15.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sms_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_sms_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_blue_cloud.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\wallpaper_blue_cloud.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_12.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_12.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_blue_black.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\wallpaper_blue_black.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_browser_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_browser_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_iconbackblue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\iconbackblue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_12.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_12.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_email_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_20.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_20.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_3.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_3.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_22.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_22.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_9.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_9.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_browser_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_browser_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_jellybean_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_jellybean_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_18.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_18.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_email_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_search_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\dock_icon_search_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_3.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_3.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_jellybean_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_jellybean_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_phone_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\dock_icon_phone_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_10.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_10.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_6.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_6.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_25.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_25.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_browser_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_browser_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_iconmaskblue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\iconmaskblue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\xml_theme_wallpapers.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\xml\\theme_wallpapers.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nova.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_nova.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_jellybean_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_jellybean_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_search_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\dock_icon_search_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_2.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_2.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pattern_colors.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\pattern_colors.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_9.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_9.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_10.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_10.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_blue_black.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\wallpaper_blue_black.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_blue_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\wallpaper_blue_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_phone_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_sms_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\dock_icon_sms_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_internet_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\dock_icon_internet_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_browser_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_browser_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pattern_colors.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\pattern_colors.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_messenger_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\dock_icon_messenger_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_17.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_17.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_25.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_25.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_17.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_17.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_jellybean_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_jellybean_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_email_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_phone_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_5.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_5.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pattern_checkerboard.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\pattern_checkerboard.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_18.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_18.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_16.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_16.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_1.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_1.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sms_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_sms_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_8.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_8.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_email_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\dock_icon_email_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_11.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_11.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_24.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_24.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\xml_theme_patterns.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\xml\\theme_patterns.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_23.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_23.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_19.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_19.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_email_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_browser_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_browser_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_8.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_8.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_4.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_4.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pattern_checkerboard.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\pattern_checkerboard.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\xml_appfilter.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\xml\\appfilter.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dock_icon_email_white.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\dock_icon_email_white.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\xml_drawable.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\xml\\drawable.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\xml_theme_patterns.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\xml\\theme_patterns.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_20.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_20.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_19.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_19.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\xml_appfilter.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\xml\\appfilter.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_jellybean.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_jellybean.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_31.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_31.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_7.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_7.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_allapps.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_allapps.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_4.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_4.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_31.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_31.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_jellybean.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_jellybean.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_14.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_14.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sms_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_sms_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_27.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_27.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_allapps_night.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_allapps_night.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wallpaper_blue.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-nodpi\\wallpaper_blue.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_7.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_7.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_26.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_26.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wallpaper_green.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-nodpi\\wallpaper_green.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_24.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_24.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wallpaper_red.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-nodpi\\wallpaper_red.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_11.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\Example_NovaTheme-master\\res\\drawable-xxhdpi\\ic_calendar_11.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_13.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_13.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_16.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_16.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_allapps_night.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_allapps_night.png"
+    },
+    {
+        "merged": "E:\\BerndsDaten\\Android\\NovaBlueMask\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_calendar_29.png.flat",
+        "source": "E:\\BerndsDaten\\Android\\NovaBlueMask\\res\\drawable-xxhdpi\\ic_calendar_29.png"
+    }
+]

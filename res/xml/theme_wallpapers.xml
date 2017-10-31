@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item drawable="@drawable/wallpaper_blue_black" />
+    <item drawable="@drawable/wallpaper_blue_white" />
+    <item drawable="@drawable/wallpaper_blue_cloud" />
+</resources>

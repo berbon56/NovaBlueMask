@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Specify every icon to be shown in the manual icon picker seen
+         when long-pressing on an icon and selecting Edit then tapping
+         the icon
+    -->
+
+    <category title="Dock" />
+    <item drawable="dock_icon_email_white" />
+    <item drawable="dock_icon_internet_white" />
+    <item drawable="dock_icon_messenger_white" />
+    <item drawable="dock_icon_phone_white" />
+    <item drawable="dock_icon_search_white" />
+    <item drawable="dock_icon_sms_white" />
+</resources>

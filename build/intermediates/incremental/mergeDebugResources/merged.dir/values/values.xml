@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NovaBlueMask</string>
+    <string name="app_slogan">Built from Example</string>
+    <string name="apply_icon_theme">Apply Icon Theme</string>
+</resources>
